@@ -132,6 +132,18 @@ a:focus{
 	color: rgb(47, 147, 123);
 
 }
+.btn-secondary{
+	background-color: rgb(47, 147, 123);
+	color: white;
+
+}
+
+.btn-secondary:hover{
+	background-color: white;
+	color: rgb(47, 147, 123);
+	border: solid 1px;
+
+}
 
 .media-body h4 {
 	margin-bottom: 20px;
@@ -144,6 +156,13 @@ a:focus{
 	background: #f1f1f1;
 	padding: 5%  0 8% 0;
 	text-align: center;
+}
+
+.tf-project{
+	background: #f1f1f1;
+	padding: 5%  0 8% 0;
+	text-align: center;
+
 }
 
 .section-title hr{
